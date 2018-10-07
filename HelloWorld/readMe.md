@@ -1,5 +1,6 @@
 /******************Author: Pranav Gargeshwari *****************
 **************************************************************/
+
 FOLLOW Below commands to build the module
 The idea is to build the src code on laptop than on the Raspberry pi itself
 
